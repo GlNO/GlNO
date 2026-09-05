@@ -1,51 +1,48 @@
 <div align="center">
 
-<img src="assets/cover.svg" alt="GlNO — quiet tools, strange ideas, useful experiments" width="100%">
+```text
+	 ____ _     _   _  ___
+	/ ___| |   | \ | |/ _ \\
+ | |  _| |   |  \| | | | |
+ | |_| | |___| |\  | |_| |
+	\____|_____|_| \_|\___/
+```
+
+`quiet tools / strange ideas / useful experiments`
 
 </div>
 
-<table>
-<tr>
-<td bgcolor="#0d1117">
+```console
+glno@github:~$ whoami
+developer / learner / occasional tinkerer
 
-<p align="center">
-<strong><font color="#c9d1d9">quiet tools, strange ideas, useful experiments</font></strong>
-</p>
+glno@github:~$ cat ./current.txt
+learning:  add your current focus
+building:  add something you are making
+exploring: add something you are curious about
+```
 
-</td>
-</tr>
-</table>
+## projects
 
-## GlNO
+```console
+glno@github:~$ ls ./projects
+```
 
-> `add one sentence that sounds like you`
+**[project-name](https://github.com/GlNO)**  `technology`  `technology`
+One honest sentence about what it does or what you learned.
 
-I use this space for small experiments, useful tools, and things I am still figuring out.
+**[project-name](https://github.com/GlNO)**  `technology`  `technology`
+One honest sentence about what it does or what you learned.
 
-### Now
+```console
+glno@github:~$ cat ./stack.txt
+language / framework / database / tool
 
-| | |
-| --- | --- |
-| Learning | `what you are learning` |
-| Making | `what you are building` |
-| Curious about | `what you want to explore` |
+glno@github:~$ exit
+```
 
-### Work
+<div align="center">
 
-**[Project name](https://github.com/GlNO)**  
-One honest sentence about the problem it solves.
+[github.com/GlNO](https://github.com/GlNO) / `your link` / `your email`
 
-`technology` · `technology`
-
-**[Project name](https://github.com/GlNO)**  
-One honest sentence about what you learned while making it.
-
-`technology` · `technology`
-
-### Tools
-
-`language` · `framework` · `database` · `tool`
-
-### Elsewhere
-
-[GitHub](https://github.com/GlNO) · `your link` · `your email`
+</div>
