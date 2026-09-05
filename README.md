@@ -3,8 +3,8 @@
 ```text
 	 ____ _     _   _  ___
 	/ ___| |   | \ | |/ _ \\
- | |  _| |   |  \| | | | |
- | |_| | |___| |\  | |_| |
+   | |  _| |   |  \| | | | |
+   | |_| | |___| |\  | |_| |
 	\____|_____|_| \_|\___/
 ```
 
@@ -22,27 +22,9 @@ building:  add something you are making
 exploring: add something you are curious about
 ```
 
-## projects
-
-```console
-glno@github:~$ ls ./projects
-```
-
-**[project-name](https://github.com/GlNO)**  `technology`  `technology`
-One honest sentence about what it does or what you learned.
-
-**[project-name](https://github.com/GlNO)**  `technology`  `technology`
-One honest sentence about what it does or what you learned.
-
-```console
-glno@github:~$ cat ./stack.txt
-language / framework / database / tool
-
-glno@github:~$ exit
-```
 
 <div align="center">
 
-[github.com/GlNO](https://github.com/GlNO) / `your link` / `your email`
+[github.com/GlNO](https://github.com/GlNO) 
 
 </div>
