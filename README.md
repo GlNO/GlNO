@@ -1,71 +1,51 @@
 <div align="center">
 
-# GlNO
-
-### Building ideas, learning in public, and making useful things.
-
-<a href="https://github.com/GlNO"><img src="https://img.shields.io/badge/GitHub-GlNO-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
-<a href="https://github.com/GlNO?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2f80ed?style=for-the-badge" alt="Explore projects"></a>
+<img src="assets/cover.svg" alt="GlNO — quiet tools, strange ideas, useful experiments" width="100%">
 
 </div>
-
----
-
-## `01` About me
-
-> A short sentence about who you are and what you like to build.
-
-- **Currently learning:** `add your current focus`
-- **Currently building:** `add a project or goal`
-- **Interested in:** `add your interests`
-- **Based in:** `add your location or timezone`
-
-## `02` What I work with
-
-<div align="center">
-
-`Add your languages` &nbsp; `Add your frameworks` &nbsp; `Add your tools`
-
-</div>
-
-## `03` Selected projects
 
 <table>
 <tr>
-<td width="50%">
+<td bgcolor="#0d1117">
 
-### [Project name](https://github.com/GlNO)
-
-Short description of something you built and why it matters.
-
-`Technology` `Technology`
-
-</td>
-<td width="50%">
-
-### [Project name](https://github.com/GlNO)
-
-Short description of something you are exploring or improving.
-
-`Technology` `Technology`
+<p align="center">
+<strong><font color="#c9d1d9">quiet tools, strange ideas, useful experiments</font></strong>
+</p>
 
 </td>
 </tr>
 </table>
 
-## `04` Beyond the code
+## GlNO
 
-`Add a sentence about your hobbies, interests, or what keeps you curious.`
+> `add one sentence that sounds like you`
 
-## `05` Connect
+I use this space for small experiments, useful tools, and things I am still figuring out.
 
-<div align="center">
+### Now
 
-[GitHub](https://github.com/GlNO) · `add your preferred social link` · `add your email`
+| | |
+| --- | --- |
+| Learning | `what you are learning` |
+| Making | `what you are building` |
+| Curious about | `what you want to explore` |
 
-<br>
-<br>
+### Work
 
-*Thanks for stopping by.*
+**[Project name](https://github.com/GlNO)**  
+One honest sentence about the problem it solves.
 
-</div>
+`technology` · `technology`
+
+**[Project name](https://github.com/GlNO)**  
+One honest sentence about what you learned while making it.
+
+`technology` · `technology`
+
+### Tools
+
+`language` · `framework` · `database` · `tool`
+
+### Elsewhere
+
+[GitHub](https://github.com/GlNO) · `your link` · `your email`
