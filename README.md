@@ -1,23 +1,23 @@
 <table>
 <tr>
-<td width="46%" valign="top">
+<td valign="top" width="42%">
 
-```text
- ____ _     _   _  ___
-/ ___| |   | \ | |/ _ \\
-| |  _| |   |  \| | | | |
-| |_| | |___| |\  | |_| |
-\____|_____|_| \_|\___/
-```
+<pre>
+	 ____ _     _   _  ___
+	/ ___| |   | \ | |/ _ \\
+ | |  _| |   |  \| | | | |
+ | |_| | |___| |\  | |_| |
+	\____|_____|_| \_|\___/
+</pre>
 
-`quiet tools / strange ideas`
+<code>quiet tools / strange ideas / useful experiments</code>
 
 </td>
-<td width="54%" valign="top">
+<td valign="top">
 
 ```console
 glno@github:~$ whoami
-developer / learner / tinkerer
+developer / learner / occasional tinkerer
 
 glno@github:~$ cat ./current.txt
 learning:  add your current focus
