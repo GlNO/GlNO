@@ -1,26 +1,33 @@
-<div align="center">
+<table>
+<tr>
+<td width="46%" valign="top">
 
 ```text
-	 ____ _     _   _  ___
-	/ ___| |   | \ | |/ _ \\
- | |  _| |   |  \| | | | |
- | |_| | |___| |\  | |_| |
-	\____|_____|_| \_|\___/
+ ____ _     _   _  ___
+/ ___| |   | \ | |/ _ \\
+| |  _| |   |  \| | | | |
+| |_| | |___| |\  | |_| |
+\____|_____|_| \_|\___/
 ```
 
-`quiet tools / strange ideas / useful experiments`
+`quiet tools / strange ideas`
 
-</div>
+</td>
+<td width="54%" valign="top">
 
 ```console
 glno@github:~$ whoami
-developer / learner / occasional tinkerer
+developer / learner / tinkerer
 
 glno@github:~$ cat ./current.txt
 learning:  add your current focus
 building:  add something you are making
 exploring: add something you are curious about
 ```
+
+</td>
+</tr>
+</table>
 
 ## projects
 
