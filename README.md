@@ -32,6 +32,6 @@ exploring: data structures & algorithms
 
 
 
-[github.com/GlNO](https://github.com/GlNO) 
+[github.com/GlNO](https://github.com/GlNO) | https://sydney-bernante.vercel.app/
 
 </div>
