@@ -18,12 +18,12 @@
 
 ```console
 glno@github:~$ whoami
-developer / ui/ux enthusiast / tinkerer
+developer / ui/ux enthusiast / coffee drinker
 
 glno@github:~$ cat ./current.txt
-learning:  machine-learning
-building:  personal portfolio
-exploring: data structures & algorithms
+learning:  data visualizations
+building:  ... 
+exploring: frameworks
 ```
 
 </td>
