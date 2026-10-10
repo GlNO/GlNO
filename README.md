@@ -22,7 +22,7 @@ developer / ui/ux enthusiast / coffee drinker
 
 glno@github:~$ cat ./current.txt
 learning:  data visualizations
-building:  obsidian-plugin
+building:  athena
 exploring: frameworks
 ```
 
